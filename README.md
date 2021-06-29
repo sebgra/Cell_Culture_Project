@@ -4,6 +4,9 @@ Pretty simple image processing and classification academic project.
 
 3 images are considered as 'angiokits' of a biological test to determine whether substance are promoting endothelial cell of human blood vessels. Cells are cultured on  human muscle cell substrate in Petri dish.
 
+![3 Types of Cells](http://url/to/img.png)
+
+
 These substances may be used in future drugs to accelerate the growth of vessels in case of injury, or to slow them down to help fight certain malignant tumors. The images are provided courtesy of Sanofi and correspond to a real problem.
 
 
